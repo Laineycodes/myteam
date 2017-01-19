@@ -1,0 +1,14 @@
+.page-header {
+  text-align: center;
+  color: red;
+}
+#toprow {
+  font-weight: bold;
+  color: blue;
+}
+.table {
+  border-style: solid;
+}
+#roster {
+  text-align: center;
+}
